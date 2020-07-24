@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Miguel
 #### I'm software engineer and and a programming enthusiast 
-![I'm software engineer and and a programming enthusiast ](https://cdn.dribbble.com/users/638428/screenshots/3641004/code2.gif)
+![I'm software engineer and and a programming enthusiast ](https://thumbs.gfycat.com/ReadyAmpleEider-size_restricted.gif)
 
 All of these repositories are projects with which I have been learning or improving my skills with the programming languages ​​I know.
 Feel free to check them out.
